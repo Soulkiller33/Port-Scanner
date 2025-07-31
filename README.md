@@ -4,6 +4,8 @@
 
 ```git clone https://github.com/Soulkiller33/Port-Scanner```
 
+--- How to use ---
+
 Scans common ports, a custom range, or all 65536 ports
 
 Optional output to file (shows full file path)
