@@ -2,7 +2,7 @@
 
 --- INSTALL --- 
 
-<pre> \`\`\`bash git clone https://github.com/Soulkiller33/Port-Scanner \`\`\` </pre>
+```git clone https://github.com/Soulkiller33/Port-Scanner```
 
 Scans common ports, a custom range, or all 65536 ports
 
